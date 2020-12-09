@@ -1,0 +1,10 @@
+C:\Users\Callum\source\repos\GeneticAlgorithmGraph\bin\Debug\GeneticAlgorithmGraph.exe.config
+C:\Users\Callum\source\repos\GeneticAlgorithmGraph\bin\Debug\GeneticAlgorithmGraph.exe
+C:\Users\Callum\source\repos\GeneticAlgorithmGraph\bin\Debug\GeneticAlgorithmGraph.pdb
+C:\Users\Callum\source\repos\GeneticAlgorithmGraph\obj\Debug\GeneticAlgorithmGraph.csprojAssemblyReference.cache
+C:\Users\Callum\source\repos\GeneticAlgorithmGraph\obj\Debug\GeneticAlgorithmGraph.Form1.resources
+C:\Users\Callum\source\repos\GeneticAlgorithmGraph\obj\Debug\GeneticAlgorithmGraph.Properties.Resources.resources
+C:\Users\Callum\source\repos\GeneticAlgorithmGraph\obj\Debug\GeneticAlgorithmGraph.csproj.GenerateResource.cache
+C:\Users\Callum\source\repos\GeneticAlgorithmGraph\obj\Debug\GeneticAlgorithmGraph.csproj.CoreCompileInputs.cache
+C:\Users\Callum\source\repos\GeneticAlgorithmGraph\obj\Debug\GeneticAlgorithmGraph.exe
+C:\Users\Callum\source\repos\GeneticAlgorithmGraph\obj\Debug\GeneticAlgorithmGraph.pdb
